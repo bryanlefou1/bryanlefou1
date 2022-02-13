@@ -5,7 +5,7 @@
 
 - 🔭Je travaille sur [Artasium](https://artasium.net/)
 
-- 📫 Discord **! BryanLeFou #4798**
+- 📫 Discord **BryanLeFou#2576**
 
 
 <h3 align="left">Languages and Tools:</h3>
