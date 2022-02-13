@@ -13,5 +13,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanlefou1&show_icons=true&locale=en" alt="bryanlefou1" /></p>
 
-<p dir="auto"><g-emoji class="g-emoji" alias="telephone_receiver" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png">📞</g-emoji> &nbsp;Contact me on Discord :</p>
-<img src="https://imgur.com/a/rHmyHf6" data-canonical-src="https://discord.c99.nl/widget/theme-4/477582590329749504.png" style="max-width: 100%;">
